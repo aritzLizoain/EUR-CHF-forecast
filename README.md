@@ -1,4 +1,4 @@
-# EUR-CHF-forecast
+# EUR/CHF forecast
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/EUR-CHF-forecast/blob/main/PRED.png" width="1300"/>
